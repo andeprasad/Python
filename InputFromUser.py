@@ -1,0 +1,6 @@
+inputUser = input("Enter Your Name : ")
+print("Entered Name is : ", inputUser)
+print("Entered Name Type is : ", type(inputUser))
+inputNumber = int(input("Enter Your Emp Number : "))
+print("Entered Number is : ", inputNumber)
+print("Entered Number Type is : ", type(inputNumber))
